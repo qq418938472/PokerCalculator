@@ -1,0 +1,38 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/eui/eui.js",
+		"libs/modules/assetsmanager/assetsmanager.js",
+		"libs/modules/tween/tween.js",
+		"libs/modules/promise/promise.js"
+	],
+	"game": [
+		"bin-debug/Base/UIBase.js",
+		"bin-debug/Data/CardEvaluationTables.js",
+		"bin-debug/Data/NlhRemainingCardsIndexTables.js",
+		"bin-debug/Data/OmahaRemainingCardsIndexTables.js",
+		"bin-debug/Data/CardsData.js",
+		"bin-debug/Base/Animation.js",
+		"bin-debug/Base/Tools.js",
+		"bin-debug/AssetAdapter.js",
+		"bin-debug/Component/ChooseCardUI.js",
+		"bin-debug/Component/HomePageCardUI.js",
+		"bin-debug/Component/PlayerUI.js",
+		"bin-debug/Main.js",
+		"bin-debug/Data/CardObject.js",
+		"bin-debug/LoadingUI.js",
+		"bin-debug/Platform.js",
+		"bin-debug/ThemeAdapter.js",
+		"bin-debug/Data/Player.js",
+		"bin-debug/Data/ProtoEnum.js",
+		"bin-debug/Manager/LayerManager.js",
+		"bin-debug/UI/ChooseCardPage.js",
+		"bin-debug/UI/HomePage.js",
+		"bin-debug/Util/CardPower.js",
+		"bin-debug/Util/CardTypeUtil.js",
+		"bin-debug/Util/SetCardPower.js",
+		"bin-debug/Util/SetOmahaCardPower.js",
+		"bin-debug/Util/SetRemainingBoards.js"
+	]
+}

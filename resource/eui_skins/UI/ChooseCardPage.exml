@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ChooseCardPageSkin" width="750" height="1334" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="169c3624344" ></w:Config>
+	<e:Image width="750" height="1334" x="0" y="0" source="chooseBg_jpg"/>
+	<e:Rect width="715" height="280" x="17" y="25" anchorOffsetX="0" anchorOffsetY="0" fillColor="0x444444" ellipseWidth="50" ellipseHeight="50" visible="false"/>
+	<e:Rect width="715" height="280" x="17" y="325" anchorOffsetX="0" anchorOffsetY="0" ellipseWidth="50" ellipseHeight="50" fillColor="0x444444" visible="false"/>
+	<e:Rect width="715" height="280" x="17" y="625" anchorOffsetX="0" anchorOffsetY="0" ellipseWidth="50" ellipseHeight="50" fillColor="0x444444" visible="false"/>
+	<e:Rect width="715" height="280" x="17" y="925" anchorOffsetX="0" anchorOffsetY="0" ellipseWidth="50" ellipseHeight="50" fillColor="0x444444" visible="false"/>
+	<e:Button id="btn_noChoose" label="不选" y="1232" anchorOffsetX="0" width="202" anchorOffsetY="0" height="72" x="94"/>
+	<e:Button id="btn_goBack" label="返回" y="1232" anchorOffsetX="0" width="202" anchorOffsetY="0" height="72" x="452"/>
+	<e:Group width="715" height="280" x="17" y="25" anchorOffsetX="0" anchorOffsetY="0" visible="false">
+		<e:Rect width="75" height="125" x="20" y="145" anchorOffsetX="0" anchorOffsetY="0" ellipseHeight="10" ellipseWidth="10" scaleX="1" scaleY="1"/>
+		<e:Rect width="85" height="125" x="17" y="10" anchorOffsetX="0" anchorOffsetY="0" ellipseHeight="10" ellipseWidth="10" scaleX="1" scaleY="1"/>
+		<e:Rect width="85" height="125" x="117" y="10" anchorOffsetX="0" anchorOffsetY="0" ellipseHeight="10" ellipseWidth="10" scaleX="1" scaleY="1"/>
+		<e:Rect width="85" height="125" x="217" y="10" anchorOffsetX="0" anchorOffsetY="0" ellipseHeight="10" ellipseWidth="10" scaleX="1" scaleY="1"/>
+		<e:Rect width="85" height="125" x="317" y="10" anchorOffsetX="0" anchorOffsetY="0" ellipseHeight="10" ellipseWidth="10" scaleX="1" scaleY="1"/>
+		<e:Rect width="85" height="125" x="416" y="10" anchorOffsetX="0" anchorOffsetY="0" ellipseHeight="10" ellipseWidth="10" scaleX="1" scaleY="1"/>
+		<e:Rect width="85" height="125" x="516" y="10" anchorOffsetX="0" anchorOffsetY="0" ellipseHeight="10" ellipseWidth="10" scaleX="1" scaleY="1"/>
+		<e:Rect width="85" height="125" x="615" y="10" anchorOffsetX="0" anchorOffsetY="0" ellipseHeight="10" ellipseWidth="10" scaleX="1" scaleY="1"/>
+	</e:Group>
+</e:Skin>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="PlayerUISkin" height="248" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*"  width="690">
+	<w:Config id="169c83e6ed7" ></w:Config>
+	<e:Group id="g_player" width="690" height="248" x="0" anchorOffsetX="0" anchorOffsetY="0">
+		<e:Rect width="690" height="248" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0" fillAlpha="0.8" ellipseWidth="30" ellipseHeight="30" scaleX="1" scaleY="1"/>
+		<e:Group id="g_cards" width="377.34" height="200" x="-0.67" anchorOffsetX="0" anchorOffsetY="0" y="25">
+		</e:Group>
+		<e:Group id="g_label" width="147" height="200" anchorOffsetX="0" anchorOffsetY="0" y="25" x="543">
+			<e:Label id="lab_result" text="胜率：？" x="0" anchorOffsetX="0" width="100%" anchorOffsetY="0" height="150" verticalAlign="middle" textAlign="center" size="30" fontFamily="Microsoft YaHei" lineSpacing="20" verticalCenter="0"/>
+		</e:Group>
+		<e:Image id="btn_close" width="55" height="55" x="651" y="-17.5" anchorOffsetX="0" anchorOffsetY="0" source="close_png"/>
+	</e:Group>
+</e:Skin>
